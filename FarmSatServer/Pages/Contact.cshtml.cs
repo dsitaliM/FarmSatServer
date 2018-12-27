@@ -12,7 +12,7 @@ namespace FarmSatServer.Pages
 
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Message = "Will add contacts here. Or Something.";
         }
     }
 }
